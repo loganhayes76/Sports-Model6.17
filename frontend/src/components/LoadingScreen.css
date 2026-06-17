@@ -1,0 +1,90 @@
+/* ── SpreadSlayer Katana Loading Screen ── */
+
+.ss-loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--ss-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.ss-loading-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  width: 100%;
+  max-width: 560px;
+  padding: 0 24px;
+}
+
+/* Logo pulses softly while loading */
+.ss-loading-logo {
+  width: 240px;
+  max-width: 60vw;
+  height: auto;
+  animation: ss-pulse 2s ease-in-out infinite;
+}
+
+@keyframes ss-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.85; transform: scale(0.97); }
+}
+
+/* Katana track — overflow:hidden clips the slash */
+.ss-katana-track {
+  width: 100%;
+  height: 80px;
+  overflow: hidden;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* The katana image sweeps from far left to far right */
+.ss-katana-slash {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: auto;
+  max-width: none;
+  transform-origin: center center;
+  animation: ss-slash 1.4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes ss-slash {
+  0% {
+    left: -120%;
+    opacity: 0;
+  }
+  8% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    left: 110%;
+    opacity: 0;
+  }
+}
+
+/* Loading text */
+.ss-loading-text {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--ss-text-muted);
+  animation: ss-dots 1.4s steps(4, end) infinite;
+}
+
+@keyframes ss-dots {
+  0%   { content: ''; }
+  25%  { opacity: 0.5; }
+  50%  { opacity: 0.8; }
+  75%  { opacity: 1;   }
+  100% { opacity: 0.5; }
+}

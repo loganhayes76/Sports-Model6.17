@@ -1,0 +1,188 @@
+/* ── Home / Dashboard ── */
+
+.home-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* Banner */
+.home-banner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  background: linear-gradient(135deg, rgba(14,165,233,0.12), rgba(132,204,22,0.08));
+  border: 1px solid rgba(14,165,233,0.25);
+  border-radius: 14px;
+  padding: 24px 28px;
+}
+
+.home-eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--ss-teal);
+  margin-bottom: 6px;
+}
+
+.home-title {
+  font-size: 32px;
+  font-weight: 900;
+  background: linear-gradient(135deg, var(--ss-teal), var(--ss-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.home-sub {
+  font-size: 13px;
+  color: var(--ss-text-muted);
+}
+
+.home-status {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ss-text-muted);
+  padding-top: 4px;
+  white-space: nowrap;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.status-live {
+  background: var(--ss-green);
+  box-shadow: 0 0 6px var(--ss-green);
+  animation: blink 2s ease-in-out infinite;
+}
+
+.status-err {
+  background: var(--ss-red);
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.4; }
+}
+
+/* Section wrapper */
+.home-section {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.home-section-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ss-text);
+  letter-spacing: 0.3px;
+}
+
+/* Props grid */
+.props-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.prop-card {
+  background: var(--ss-surface);
+  border: 1px solid var(--ss-border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.prop-player {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ss-text);
+}
+
+.prop-bet {
+  font-size: 13px;
+  color: var(--ss-green);
+  font-weight: 500;
+}
+
+.prop-odds {
+  font-size: 12px;
+  color: var(--ss-text-muted);
+  font-weight: 600;
+}
+
+.no-props-card {
+  background: var(--ss-surface);
+  border: 1px dashed var(--ss-border);
+  border-radius: 12px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  color: var(--ss-text-muted);
+  font-size: 14px;
+  text-align: center;
+}
+
+.no-props-card span {
+  font-size: 32px;
+}
+
+/* Sections grid */
+.sections-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.section-card {
+  background: var(--ss-surface);
+  border: 1px solid var(--ss-border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-align: left;
+  transition: all 0.15s ease;
+  color: var(--ss-text);
+}
+
+.section-card:hover {
+  background: var(--ss-surface2);
+  border-color: var(--ss-teal);
+  transform: translateY(-1px);
+}
+
+.section-icon {
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.section-label {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.section-desc {
+  font-size: 11px;
+  color: var(--ss-text-muted);
+  line-height: 1.4;
+}

@@ -1,0 +1,252 @@
+/* ── SpreadSlayer App Shell ── */
+
+/* ── User Pill (header) ── */
+.ss-user-pill {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--ss-bg);
+  border: 1px solid var(--ss-border);
+  border-radius: 20px;
+  padding: 4px 12px 4px 10px;
+}
+
+.ss-user-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ss-text);
+}
+
+.ss-user-role {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.ss-signout-btn {
+  background: transparent;
+  border: none;
+  color: var(--ss-text-muted);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+  transition: color 0.15s;
+}
+
+.ss-signout-btn:hover {
+  color: var(--ss-red);
+}
+
+.ss-header-signin-btn {
+  padding: 6px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--ss-teal);
+  color: var(--ss-teal);
+  font-size: 13px;
+  font-weight: 700;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-decoration: none;
+}
+
+.ss-header-signin-btn:hover {
+  background: rgba(14,165,233,0.12);
+  color: var(--ss-text);
+}
+
+@media (max-width: 480px) {
+  .ss-user-pill {
+    padding: 3px 8px 3px 6px;
+  }
+  .ss-user-role { display: none; }
+  .ss-user-name { font-size: 12px; }
+}
+
+.ss-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  background: var(--ss-bg);
+}
+
+/* ── Header ── */
+.ss-header {
+  height: var(--header-h);
+  min-height: var(--header-h);
+  background: var(--ss-surface);
+  border-bottom: 1px solid var(--ss-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 100;
+  flex-shrink: 0;
+}
+
+.ss-header-logo {
+  display: flex;
+  align-items: center;
+  height: 42px;
+}
+
+.ss-header-logo img {
+  height: 100%;
+  width: auto;
+  max-width: 200px;
+  object-fit: contain;
+}
+
+.ss-header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ss-version-badge {
+  background: linear-gradient(135deg, var(--ss-teal-dim), var(--ss-green-dim));
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+/* ── Body (sidebar + main) ── */
+.ss-body {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* ── Desktop Sidebar ── */
+.ss-sidebar {
+  width: var(--sidebar-w);
+  min-width: var(--sidebar-w);
+  background: var(--ss-surface);
+  border-right: 1px solid var(--ss-border);
+  display: flex;
+  flex-direction: column;
+  padding: 12px 8px;
+  gap: 2px;
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.ss-nav-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 8px;
+}
+
+.ss-nav-group-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--ss-text-muted);
+  opacity: 0.5;
+  padding: 6px 12px 2px;
+  text-transform: uppercase;
+}
+
+.ss-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ss-text-muted);
+  transition: all 0.15s ease;
+}
+
+.ss-nav-link:hover {
+  background: var(--ss-surface2);
+  color: var(--ss-text);
+}
+
+.ss-nav-link.active {
+  background: linear-gradient(135deg, rgba(14,165,233,0.15), rgba(132,204,22,0.1));
+  color: var(--ss-teal);
+  border: 1px solid rgba(14,165,233,0.25);
+}
+
+.ss-nav-icon {
+  font-size: 16px;
+  width: 20px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.ss-nav-label {
+  flex: 1;
+}
+
+/* ── Main Content ── */
+.ss-main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px;
+  background: var(--ss-bg);
+}
+
+/* ── Mobile Bottom Nav ── */
+.ss-bottom-nav {
+  display: none;
+  height: var(--bottom-nav-h);
+  background: var(--ss-surface);
+  border-top: 1px solid var(--ss-border);
+  flex-shrink: 0;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .ss-sidebar {
+    display: none;
+  }
+
+  .ss-bottom-nav {
+    display: flex;
+    align-items: stretch;
+  }
+
+  .ss-bottom-link {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--ss-text-muted);
+    transition: color 0.15s ease;
+  }
+
+  .ss-bottom-link .ss-nav-icon {
+    font-size: 18px;
+    width: auto;
+  }
+
+  .ss-bottom-link.active {
+    color: var(--ss-teal);
+  }
+
+  .ss-main {
+    padding: 16px;
+    padding-bottom: calc(var(--bottom-nav-h) + 16px);
+  }
+}
+
+@media (max-width: 480px) {
+  .ss-header-logo img {
+    max-width: 150px;
+  }
+}
