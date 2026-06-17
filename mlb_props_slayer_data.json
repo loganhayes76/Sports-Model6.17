@@ -1,0 +1,145 @@
+[
+    {
+        "player": "Eduardo Rodriguez",
+        "market": "pitcher_strikeouts",
+        "line": 4.5,
+        "over_odds": -148,
+        "under_odds": 115,
+        "proj_mean": 4.23,
+        "proj_std": 1.06,
+        "home_team": "Arizona Diamondbacks",
+        "away_team": "Los Angeles Angels"
+    },
+    {
+        "player": "Jake Bennett",
+        "market": "pitcher_strikeouts",
+        "line": 3.5,
+        "over_odds": 136,
+        "under_odds": -168,
+        "proj_mean": 4.13,
+        "proj_std": 1.03,
+        "home_team": "Boston Red Sox",
+        "away_team": "Toronto Blue Jays"
+    },
+    {
+        "player": "Anthony Kay",
+        "market": "pitcher_strikeouts",
+        "line": 4.5,
+        "over_odds": -111,
+        "under_odds": -120,
+        "proj_mean": 4.23,
+        "proj_std": 1.06,
+        "home_team": "New York Yankees",
+        "away_team": "Chicago White Sox"
+    },
+    {
+        "player": "Carlos Rodon",
+        "market": "pitcher_strikeouts",
+        "line": 5.5,
+        "over_odds": -130,
+        "under_odds": 108,
+        "proj_mean": 4.33,
+        "proj_std": 1.08,
+        "home_team": "New York Yankees",
+        "away_team": "Chicago White Sox"
+    },
+    {
+        "player": "JR Ritchie",
+        "market": "pitcher_strikeouts",
+        "line": 3.5,
+        "over_odds": -132,
+        "under_odds": 108,
+        "proj_mean": 4.13,
+        "proj_std": 1.03,
+        "home_team": "Atlanta Braves",
+        "away_team": "San Francisco Giants"
+    },
+    {
+        "player": "Carson Whisenhunt",
+        "market": "pitcher_strikeouts",
+        "line": 3.5,
+        "over_odds": -142,
+        "under_odds": 111,
+        "proj_mean": 4.13,
+        "proj_std": 1.03,
+        "home_team": "Atlanta Braves",
+        "away_team": "San Francisco Giants"
+    },
+    {
+        "player": "Brandon Sproat",
+        "market": "pitcher_strikeouts",
+        "line": 4.5,
+        "over_odds": -120,
+        "under_odds": -102,
+        "proj_mean": 4.23,
+        "proj_std": 1.06,
+        "home_team": "Milwaukee Brewers",
+        "away_team": "Cleveland Guardians"
+    },
+    {
+        "player": "Gavin Williams",
+        "market": "pitcher_strikeouts",
+        "line": 6.5,
+        "over_odds": -112,
+        "under_odds": -118,
+        "proj_mean": 4.43,
+        "proj_std": 1.11,
+        "home_team": "Milwaukee Brewers",
+        "away_team": "Cleveland Guardians"
+    },
+    {
+        "player": "Javier Assad",
+        "market": "pitcher_strikeouts",
+        "line": 4.5,
+        "over_odds": 132,
+        "under_odds": -162,
+        "proj_mean": 4.23,
+        "proj_std": 1.06,
+        "home_team": "Chicago Cubs",
+        "away_team": "Colorado Rockies"
+    },
+    {
+        "player": "Braxton Ashcraft",
+        "market": "pitcher_strikeouts",
+        "line": 5.5,
+        "over_odds": -102,
+        "under_odds": -130,
+        "proj_mean": 4.33,
+        "proj_std": 1.08,
+        "home_team": "Athletics",
+        "away_team": "Pittsburgh Pirates"
+    },
+    {
+        "player": "Aaron Civale",
+        "market": "pitcher_strikeouts",
+        "line": 3.5,
+        "over_odds": 100,
+        "under_odds": -122,
+        "proj_mean": 4.13,
+        "proj_std": 1.03,
+        "home_team": "Athletics",
+        "away_team": "Pittsburgh Pirates"
+    },
+    {
+        "player": "Kyle Bradish",
+        "market": "pitcher_strikeouts",
+        "line": 5.5,
+        "over_odds": -108,
+        "under_odds": -122,
+        "proj_mean": 4.33,
+        "proj_std": 1.08,
+        "home_team": "Seattle Mariners",
+        "away_team": "Baltimore Orioles"
+    },
+    {
+        "player": "George Kirby",
+        "market": "pitcher_strikeouts",
+        "line": 6.5,
+        "over_odds": 120,
+        "under_odds": -148,
+        "proj_mean": 4.43,
+        "proj_std": 1.11,
+        "home_team": "Seattle Mariners",
+        "away_team": "Baltimore Orioles"
+    }
+]

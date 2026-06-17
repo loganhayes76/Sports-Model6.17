@@ -1,0 +1,5127 @@
+[
+    {
+        "player": "Brandon Miller",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.71,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 4.58,
+                "proj_std": 1.82
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mikal Bridges",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": 108,
+        "under_odds": -138,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.71,
+                "proj_std": 0.31
+            },
+            "Dice V1": {
+                "proj_mean": 3.11,
+                "proj_std": 1.26
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Jalen Brunson",
+        "market": "player_assists",
+        "line": 6.5,
+        "over_odds": -138,
+        "under_odds": 108,
+        "proj_mean": 6.5,
+        "proj_std": 2.08,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Hot Hand V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Matchup V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Pace V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Consensus": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Monte V1": {
+                "proj_mean": 1.3,
+                "proj_std": 0.43
+            },
+            "Dice V1": {
+                "proj_mean": 5.6,
+                "proj_std": 2.17
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Kon Knueppel",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": 118,
+        "under_odds": -150,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.7,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.9,
+                "proj_std": 1.52
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "LaMelo Ball",
+        "market": "player_assists",
+        "line": 6.5,
+        "over_odds": -138,
+        "under_odds": 108,
+        "proj_mean": 6.5,
+        "proj_std": 2.08,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Hot Hand V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Matchup V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Pace V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Consensus": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Monte V1": {
+                "proj_mean": 1.31,
+                "proj_std": 0.41
+            },
+            "Dice V1": {
+                "proj_mean": 5.79,
+                "proj_std": 2.27
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Josh Hart",
+        "market": "player_assists",
+        "line": 4.5,
+        "over_odds": -136,
+        "under_odds": 106,
+        "proj_mean": 4.5,
+        "proj_std": 1.44,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Monte V1": {
+                "proj_mean": 0.9,
+                "proj_std": 0.31
+            },
+            "Dice V1": {
+                "proj_mean": 5.99,
+                "proj_std": 2.3
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Coby White",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": 106,
+        "under_odds": -136,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.71,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.81,
+                "proj_std": 1.52
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Jordan Clarkson",
+        "market": "player_points",
+        "line": 8.5,
+        "over_odds": -106,
+        "under_odds": -120,
+        "proj_mean": 8.5,
+        "proj_std": 1.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Matchup V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Pace V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Consensus": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Monte V1": {
+                "proj_mean": 4.65,
+                "proj_std": 1.01
+            },
+            "Dice V1": {
+                "proj_mean": 7.34,
+                "proj_std": 2.86
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mikal Bridges",
+        "market": "player_points",
+        "line": 13.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 13.5,
+        "proj_std": 2.97,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Hot Hand V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Matchup V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Pace V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Consensus": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Monte V1": {
+                "proj_mean": 7.48,
+                "proj_std": 1.65
+            },
+            "Dice V1": {
+                "proj_mean": 14.82,
+                "proj_std": 6.1
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Coby White",
+        "market": "player_points",
+        "line": 13.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 13.5,
+        "proj_std": 2.97,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Hot Hand V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Matchup V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Pace V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Consensus": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Monte V1": {
+                "proj_mean": 7.46,
+                "proj_std": 1.62
+            },
+            "Dice V1": {
+                "proj_mean": 10.7,
+                "proj_std": 4.18
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Josh Hart",
+        "market": "player_points",
+        "line": 12.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 12.5,
+        "proj_std": 2.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Matchup V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Pace V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Consensus": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Monte V1": {
+                "proj_mean": 6.88,
+                "proj_std": 1.49
+            },
+            "Dice V1": {
+                "proj_mean": 10.09,
+                "proj_std": 3.97
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Brandon Miller",
+        "market": "player_points",
+        "line": 19.5,
+        "over_odds": 102,
+        "under_odds": -130,
+        "proj_mean": 19.5,
+        "proj_std": 4.29,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Hot Hand V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Matchup V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Pace V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Consensus": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Monte V1": {
+                "proj_mean": 10.8,
+                "proj_std": 2.35
+            },
+            "Dice V1": {
+                "proj_mean": 13.7,
+                "proj_std": 5.39
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Miles Bridges",
+        "market": "player_points",
+        "line": 14.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 14.5,
+        "proj_std": 3.19,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Hot Hand V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Matchup V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Pace V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Consensus": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Monte V1": {
+                "proj_mean": 7.93,
+                "proj_std": 1.8
+            },
+            "Dice V1": {
+                "proj_mean": 8.83,
+                "proj_std": 3.51
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mitchell Robinson",
+        "market": "player_points",
+        "line": 5.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 5.5,
+        "proj_std": 1.21,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Monte V1": {
+                "proj_mean": 3.02,
+                "proj_std": 0.68
+            },
+            "Dice V1": {
+                "proj_mean": 4.38,
+                "proj_std": 1.75
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "OG Anunoby",
+        "market": "player_points",
+        "line": 16.5,
+        "over_odds": 102,
+        "under_odds": -130,
+        "proj_mean": 16.5,
+        "proj_std": 3.63,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Hot Hand V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Matchup V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Pace V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Consensus": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Monte V1": {
+                "proj_mean": 9.08,
+                "proj_std": 1.93
+            },
+            "Dice V1": {
+                "proj_mean": 14.22,
+                "proj_std": 5.56
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Moussa Diabate",
+        "market": "player_points",
+        "line": 7.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 7.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 4.11,
+                "proj_std": 0.91
+            },
+            "Dice V1": {
+                "proj_mean": 6.88,
+                "proj_std": 2.72
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Kon Knueppel",
+        "market": "player_points",
+        "line": 18.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 18.5,
+        "proj_std": 4.07,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Hot Hand V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Matchup V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Pace V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Consensus": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Monte V1": {
+                "proj_mean": 10.17,
+                "proj_std": 2.31
+            },
+            "Dice V1": {
+                "proj_mean": 15.55,
+                "proj_std": 6.16
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Jalen Brunson",
+        "market": "player_points",
+        "line": 25.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 25.5,
+        "proj_std": 5.61,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 25.5,
+                "proj_std": 5.61
+            },
+            "Hot Hand V1": {
+                "proj_mean": 25.5,
+                "proj_std": 5.61
+            },
+            "Matchup V1": {
+                "proj_mean": 25.5,
+                "proj_std": 5.61
+            },
+            "Pace V1": {
+                "proj_mean": 25.5,
+                "proj_std": 5.61
+            },
+            "Consensus": {
+                "proj_mean": 25.5,
+                "proj_std": 5.61
+            },
+            "Monte V1": {
+                "proj_mean": 14.08,
+                "proj_std": 3.1
+            },
+            "Dice V1": {
+                "proj_mean": 23.06,
+                "proj_std": 9.13
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Karl-Anthony Towns",
+        "market": "player_points",
+        "line": 18.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 18.5,
+        "proj_std": 4.07,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Hot Hand V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Matchup V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Pace V1": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Consensus": {
+                "proj_mean": 18.5,
+                "proj_std": 4.07
+            },
+            "Monte V1": {
+                "proj_mean": 10.09,
+                "proj_std": 2.24
+            },
+            "Dice V1": {
+                "proj_mean": 20.56,
+                "proj_std": 8.24
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "LaMelo Ball",
+        "market": "player_points",
+        "line": 19.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 19.5,
+        "proj_std": 4.29,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Hot Hand V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Matchup V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Pace V1": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Consensus": {
+                "proj_mean": 19.5,
+                "proj_std": 4.29
+            },
+            "Monte V1": {
+                "proj_mean": 10.69,
+                "proj_std": 2.31
+            },
+            "Dice V1": {
+                "proj_mean": 23.49,
+                "proj_std": 9.0
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Jalen Brunson",
+        "market": "player_points_rebounds_assists",
+        "line": 36.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 36.5,
+        "proj_std": 6.57,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 36.5,
+                "proj_std": 6.57
+            },
+            "Hot Hand V1": {
+                "proj_mean": 36.5,
+                "proj_std": 6.57
+            },
+            "Matchup V1": {
+                "proj_mean": 36.5,
+                "proj_std": 6.57
+            },
+            "Pace V1": {
+                "proj_mean": 36.5,
+                "proj_std": 6.57
+            },
+            "Consensus": {
+                "proj_mean": 36.5,
+                "proj_std": 6.57
+            },
+            "Monte V1": {
+                "proj_mean": 36.39,
+                "proj_std": 5.48
+            },
+            "Dice V1": {
+                "proj_mean": 19.63,
+                "proj_std": 7.87
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Kon Knueppel",
+        "market": "player_points_rebounds_assists",
+        "line": 26.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 26.5,
+        "proj_std": 4.77,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 26.5,
+                "proj_std": 4.77
+            },
+            "Hot Hand V1": {
+                "proj_mean": 26.5,
+                "proj_std": 4.77
+            },
+            "Matchup V1": {
+                "proj_mean": 26.5,
+                "proj_std": 4.77
+            },
+            "Pace V1": {
+                "proj_mean": 26.5,
+                "proj_std": 4.77
+            },
+            "Consensus": {
+                "proj_mean": 26.5,
+                "proj_std": 4.77
+            },
+            "Monte V1": {
+                "proj_mean": 26.54,
+                "proj_std": 4.01
+            },
+            "Dice V1": {
+                "proj_mean": 26.12,
+                "proj_std": 10.45
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "LaMelo Ball",
+        "market": "player_points_rebounds_assists",
+        "line": 31.5,
+        "over_odds": -120,
+        "under_odds": -106,
+        "proj_mean": 31.5,
+        "proj_std": 5.67,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Hot Hand V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Matchup V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Pace V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Consensus": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Monte V1": {
+                "proj_mean": 31.75,
+                "proj_std": 4.83
+            },
+            "Dice V1": {
+                "proj_mean": 35.19,
+                "proj_std": 13.79
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Josh Hart",
+        "market": "player_points_rebounds_assists",
+        "line": 24.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 24.5,
+        "proj_std": 4.41,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Hot Hand V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Matchup V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Pace V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Consensus": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Monte V1": {
+                "proj_mean": 24.32,
+                "proj_std": 3.8
+            },
+            "Dice V1": {
+                "proj_mean": 22.17,
+                "proj_std": 8.91
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Coby White",
+        "market": "player_points_rebounds_assists",
+        "line": 20.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 20.5,
+        "proj_std": 3.69,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Hot Hand V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Matchup V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Pace V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Consensus": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Monte V1": {
+                "proj_mean": 20.32,
+                "proj_std": 3.19
+            },
+            "Dice V1": {
+                "proj_mean": 20.69,
+                "proj_std": 8.07
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "OG Anunoby",
+        "market": "player_points_rebounds_assists",
+        "line": 23.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 23.5,
+        "proj_std": 4.23,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Hot Hand V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Matchup V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Pace V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Consensus": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Monte V1": {
+                "proj_mean": 23.52,
+                "proj_std": 3.64
+            },
+            "Dice V1": {
+                "proj_mean": 19.87,
+                "proj_std": 8.04
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Brandon Miller",
+        "market": "player_points_rebounds_assists",
+        "line": 27.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 27.5,
+        "proj_std": 4.95,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Hot Hand V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Matchup V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Pace V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Consensus": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Monte V1": {
+                "proj_mean": 27.53,
+                "proj_std": 4.32
+            },
+            "Dice V1": {
+                "proj_mean": 29.74,
+                "proj_std": 12.15
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Miles Bridges",
+        "market": "player_points_rebounds_assists",
+        "line": 22.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 22.5,
+        "proj_std": 4.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 22.5,
+                "proj_std": 4.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 22.5,
+                "proj_std": 4.05
+            },
+            "Matchup V1": {
+                "proj_mean": 22.5,
+                "proj_std": 4.05
+            },
+            "Pace V1": {
+                "proj_mean": 22.5,
+                "proj_std": 4.05
+            },
+            "Consensus": {
+                "proj_mean": 22.5,
+                "proj_std": 4.05
+            },
+            "Monte V1": {
+                "proj_mean": 22.42,
+                "proj_std": 3.43
+            },
+            "Dice V1": {
+                "proj_mean": 27.58,
+                "proj_std": 10.86
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mikal Bridges",
+        "market": "player_points_rebounds_assists",
+        "line": 20.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 20.5,
+        "proj_std": 3.69,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Hot Hand V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Matchup V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Pace V1": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Consensus": {
+                "proj_mean": 20.5,
+                "proj_std": 3.69
+            },
+            "Monte V1": {
+                "proj_mean": 20.52,
+                "proj_std": 3.17
+            },
+            "Dice V1": {
+                "proj_mean": 27.9,
+                "proj_std": 11.55
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Karl-Anthony Towns",
+        "market": "player_points_rebounds_assists",
+        "line": 31.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 31.5,
+        "proj_std": 5.67,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Hot Hand V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Matchup V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Pace V1": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Consensus": {
+                "proj_mean": 31.5,
+                "proj_std": 5.67
+            },
+            "Monte V1": {
+                "proj_mean": 31.72,
+                "proj_std": 4.9
+            },
+            "Dice V1": {
+                "proj_mean": 35.27,
+                "proj_std": 14.01
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Jalen Brunson",
+        "market": "player_rebounds",
+        "line": 2.5,
+        "over_odds": -170,
+        "under_odds": 130,
+        "proj_mean": 2.5,
+        "proj_std": 0.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Monte V1": {
+                "proj_mean": 0.62,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 2.78,
+                "proj_std": 1.09
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Kon Knueppel",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.13,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 4.94,
+                "proj_std": 1.9
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mitchell Robinson",
+        "market": "player_rebounds",
+        "line": 7.5,
+        "over_odds": 124,
+        "under_odds": -158,
+        "proj_mean": 7.5,
+        "proj_std": 2.25,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Monte V1": {
+                "proj_mean": 1.87,
+                "proj_std": 0.58
+            },
+            "Dice V1": {
+                "proj_mean": 10.13,
+                "proj_std": 4.09
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Josh Hart",
+        "market": "player_rebounds",
+        "line": 6.5,
+        "over_odds": -142,
+        "under_odds": 112,
+        "proj_mean": 6.5,
+        "proj_std": 1.95,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.95
+            },
+            "Hot Hand V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.95
+            },
+            "Matchup V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.95
+            },
+            "Pace V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.95
+            },
+            "Consensus": {
+                "proj_mean": 6.5,
+                "proj_std": 1.95
+            },
+            "Monte V1": {
+                "proj_mean": 1.64,
+                "proj_std": 0.48
+            },
+            "Dice V1": {
+                "proj_mean": 8.94,
+                "proj_std": 3.56
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Moussa Diabate",
+        "market": "player_rebounds",
+        "line": 9.5,
+        "over_odds": 118,
+        "under_odds": -150,
+        "proj_mean": 9.5,
+        "proj_std": 2.85,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Hot Hand V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Matchup V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Pace V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Consensus": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Monte V1": {
+                "proj_mean": 2.34,
+                "proj_std": 0.69
+            },
+            "Dice V1": {
+                "proj_mean": 9.58,
+                "proj_std": 3.88
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Miles Bridges",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.37,
+                "proj_std": 0.39
+            },
+            "Dice V1": {
+                "proj_mean": 5.59,
+                "proj_std": 2.13
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Brandon Miller",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -142,
+        "under_odds": 112,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.13,
+                "proj_std": 0.34
+            },
+            "Dice V1": {
+                "proj_mean": 4.87,
+                "proj_std": 1.98
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Karl-Anthony Towns",
+        "market": "player_rebounds",
+        "line": 10.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 10.5,
+        "proj_std": 3.15,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 10.5,
+                "proj_std": 3.15
+            },
+            "Hot Hand V1": {
+                "proj_mean": 10.5,
+                "proj_std": 3.15
+            },
+            "Matchup V1": {
+                "proj_mean": 10.5,
+                "proj_std": 3.15
+            },
+            "Pace V1": {
+                "proj_mean": 10.5,
+                "proj_std": 3.15
+            },
+            "Consensus": {
+                "proj_mean": 10.5,
+                "proj_std": 3.15
+            },
+            "Monte V1": {
+                "proj_mean": 2.6,
+                "proj_std": 0.78
+            },
+            "Dice V1": {
+                "proj_mean": 9.36,
+                "proj_std": 3.81
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "OG Anunoby",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -130,
+        "under_odds": 102,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.14,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 2.1,
+                "proj_std": 0.97
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Mikal Bridges",
+        "market": "player_rebounds",
+        "line": 3.5,
+        "over_odds": -108,
+        "under_odds": -118,
+        "proj_mean": 3.5,
+        "proj_std": 1.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Monte V1": {
+                "proj_mean": 0.88,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.16,
+                "proj_std": 1.22
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "LaMelo Ball",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.13,
+                "proj_std": 0.34
+            },
+            "Dice V1": {
+                "proj_mean": 3.18,
+                "proj_std": 1.23
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Ryan Kalkbrenner",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": 124,
+        "under_odds": -160,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.1,
+                "proj_std": 0.34
+            },
+            "Dice V1": {
+                "proj_mean": 5.39,
+                "proj_std": 2.12
+            }
+        },
+        "own_team": "Charlotte Hornets",
+        "opp_team": "New York Knicks"
+    },
+    {
+        "player": "Daniss Jenkins",
+        "market": "player_assists",
+        "line": 7.5,
+        "over_odds": -130,
+        "under_odds": 102,
+        "proj_mean": 7.5,
+        "proj_std": 2.4,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.4
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.4
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.4
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.4
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 2.4
+            },
+            "Monte V1": {
+                "proj_mean": 1.49,
+                "proj_std": 0.48
+            },
+            "Dice V1": {
+                "proj_mean": 6.63,
+                "proj_std": 2.75
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Dejounte Murray",
+        "market": "player_assists",
+        "line": 6.5,
+        "over_odds": 110,
+        "under_odds": -140,
+        "proj_mean": 6.5,
+        "proj_std": 2.08,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Hot Hand V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Matchup V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Pace V1": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Consensus": {
+                "proj_mean": 6.5,
+                "proj_std": 2.08
+            },
+            "Monte V1": {
+                "proj_mean": 1.3,
+                "proj_std": 0.39
+            },
+            "Dice V1": {
+                "proj_mean": 5.8,
+                "proj_std": 2.26
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Trey Murphy III",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": -118,
+        "under_odds": -108,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.69,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 4.01,
+                "proj_std": 1.65
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Zion Williamson",
+        "market": "player_assists",
+        "line": 2.5,
+        "over_odds": -154,
+        "under_odds": 120,
+        "proj_mean": 2.5,
+        "proj_std": 0.8,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Monte V1": {
+                "proj_mean": 0.53,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 2.03,
+                "proj_std": 0.96
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Duncan Robinson",
+        "market": "player_assists",
+        "line": 2.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 2.5,
+        "proj_std": 0.8,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.8
+            },
+            "Monte V1": {
+                "proj_mean": 0.52,
+                "proj_std": 0.28
+            },
+            "Dice V1": {
+                "proj_mean": 2.15,
+                "proj_std": 0.99
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ausar Thompson",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": 106,
+        "under_odds": -136,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.73,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 2.61,
+                "proj_std": 1.06
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Tobias Harris",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": 124,
+        "under_odds": -160,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.7,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 3.11,
+                "proj_std": 1.26
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ausar Thompson",
+        "market": "player_points",
+        "line": 11.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 11.5,
+        "proj_std": 2.53,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Hot Hand V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Matchup V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Pace V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Consensus": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Monte V1": {
+                "proj_mean": 6.36,
+                "proj_std": 1.41
+            },
+            "Dice V1": {
+                "proj_mean": 12.73,
+                "proj_std": 5.05
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Kevin Huerter",
+        "market": "player_points",
+        "line": 9.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 9.5,
+        "proj_std": 2.09,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Hot Hand V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Matchup V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Pace V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Consensus": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Monte V1": {
+                "proj_mean": 5.21,
+                "proj_std": 1.18
+            },
+            "Dice V1": {
+                "proj_mean": 9.46,
+                "proj_std": 3.83
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Zion Williamson",
+        "market": "player_points",
+        "line": 20.5,
+        "over_odds": -104,
+        "under_odds": -120,
+        "proj_mean": 20.5,
+        "proj_std": 4.51,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Hot Hand V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Matchup V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Pace V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Consensus": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Monte V1": {
+                "proj_mean": 11.4,
+                "proj_std": 2.56
+            },
+            "Dice V1": {
+                "proj_mean": 22.74,
+                "proj_std": 9.05
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ron Holland",
+        "market": "player_points",
+        "line": 9.5,
+        "over_odds": -106,
+        "under_odds": -120,
+        "proj_mean": 9.5,
+        "proj_std": 2.09,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Hot Hand V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Matchup V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Pace V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Consensus": {
+                "proj_mean": 9.5,
+                "proj_std": 2.09
+            },
+            "Monte V1": {
+                "proj_mean": 5.22,
+                "proj_std": 1.15
+            },
+            "Dice V1": {
+                "proj_mean": 11.19,
+                "proj_std": 4.57
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Dejounte Murray",
+        "market": "player_points",
+        "line": 16.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 16.5,
+        "proj_std": 3.63,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Hot Hand V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Matchup V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Pace V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Consensus": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Monte V1": {
+                "proj_mean": 9.0,
+                "proj_std": 1.96
+            },
+            "Dice V1": {
+                "proj_mean": 19.85,
+                "proj_std": 8.1
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Saddiq Bey",
+        "market": "player_points",
+        "line": 17.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 17.5,
+        "proj_std": 3.85,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Hot Hand V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Matchup V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Pace V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Consensus": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Monte V1": {
+                "proj_mean": 9.68,
+                "proj_std": 2.03
+            },
+            "Dice V1": {
+                "proj_mean": 10.84,
+                "proj_std": 4.25
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Yves Missi",
+        "market": "player_points",
+        "line": 5.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 5.5,
+        "proj_std": 1.21,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Monte V1": {
+                "proj_mean": 3.01,
+                "proj_std": 0.64
+            },
+            "Dice V1": {
+                "proj_mean": 4.42,
+                "proj_std": 1.71
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Derik Queen",
+        "market": "player_points",
+        "line": 6.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 6.5,
+        "proj_std": 1.43,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.43
+            },
+            "Hot Hand V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.43
+            },
+            "Matchup V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.43
+            },
+            "Pace V1": {
+                "proj_mean": 6.5,
+                "proj_std": 1.43
+            },
+            "Consensus": {
+                "proj_mean": 6.5,
+                "proj_std": 1.43
+            },
+            "Monte V1": {
+                "proj_mean": 3.57,
+                "proj_std": 0.82
+            },
+            "Dice V1": {
+                "proj_mean": 6.53,
+                "proj_std": 2.53
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Daniss Jenkins",
+        "market": "player_points",
+        "line": 17.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 17.5,
+        "proj_std": 3.85,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Hot Hand V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Matchup V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Pace V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Consensus": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Monte V1": {
+                "proj_mean": 9.62,
+                "proj_std": 2.14
+            },
+            "Dice V1": {
+                "proj_mean": 17.79,
+                "proj_std": 6.94
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Duncan Robinson",
+        "market": "player_points",
+        "line": 12.5,
+        "over_odds": 108,
+        "under_odds": -138,
+        "proj_mean": 12.5,
+        "proj_std": 2.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Matchup V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Pace V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Consensus": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Monte V1": {
+                "proj_mean": 6.86,
+                "proj_std": 1.6
+            },
+            "Dice V1": {
+                "proj_mean": 12.66,
+                "proj_std": 5.07
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Tobias Harris",
+        "market": "player_points",
+        "line": 14.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 14.5,
+        "proj_std": 3.19,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Hot Hand V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Matchup V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Pace V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Consensus": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Monte V1": {
+                "proj_mean": 7.89,
+                "proj_std": 1.71
+            },
+            "Dice V1": {
+                "proj_mean": 12.66,
+                "proj_std": 4.95
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Jalen Duren",
+        "market": "player_points",
+        "line": 23.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 23.5,
+        "proj_std": 5.17,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 23.5,
+                "proj_std": 5.17
+            },
+            "Hot Hand V1": {
+                "proj_mean": 23.5,
+                "proj_std": 5.17
+            },
+            "Matchup V1": {
+                "proj_mean": 23.5,
+                "proj_std": 5.17
+            },
+            "Pace V1": {
+                "proj_mean": 23.5,
+                "proj_std": 5.17
+            },
+            "Consensus": {
+                "proj_mean": 23.5,
+                "proj_std": 5.17
+            },
+            "Monte V1": {
+                "proj_mean": 12.99,
+                "proj_std": 2.85
+            },
+            "Dice V1": {
+                "proj_mean": 19.46,
+                "proj_std": 8.27
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Trey Murphy III",
+        "market": "player_points",
+        "line": 20.5,
+        "over_odds": 102,
+        "under_odds": -130,
+        "proj_mean": 20.5,
+        "proj_std": 4.51,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Hot Hand V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Matchup V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Pace V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Consensus": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Monte V1": {
+                "proj_mean": 11.32,
+                "proj_std": 2.47
+            },
+            "Dice V1": {
+                "proj_mean": 17.65,
+                "proj_std": 6.77
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Herb Jones",
+        "market": "player_points",
+        "line": 8.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 8.5,
+        "proj_std": 1.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Matchup V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Pace V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Consensus": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Monte V1": {
+                "proj_mean": 4.68,
+                "proj_std": 0.98
+            },
+            "Dice V1": {
+                "proj_mean": 8.39,
+                "proj_std": 3.43
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Dejounte Murray",
+        "market": "player_points_rebounds_assists",
+        "line": 27.5,
+        "over_odds": -120,
+        "under_odds": -106,
+        "proj_mean": 27.5,
+        "proj_std": 4.95,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Hot Hand V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Matchup V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Pace V1": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Consensus": {
+                "proj_mean": 27.5,
+                "proj_std": 4.95
+            },
+            "Monte V1": {
+                "proj_mean": 27.36,
+                "proj_std": 4.13
+            },
+            "Dice V1": {
+                "proj_mean": 30.14,
+                "proj_std": 11.71
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Saddiq Bey",
+        "market": "player_points_rebounds_assists",
+        "line": 25.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 25.5,
+        "proj_std": 4.59,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Hot Hand V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Matchup V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Pace V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Consensus": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Monte V1": {
+                "proj_mean": 25.34,
+                "proj_std": 3.98
+            },
+            "Dice V1": {
+                "proj_mean": 27.9,
+                "proj_std": 10.85
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Daniss Jenkins",
+        "market": "player_points_rebounds_assists",
+        "line": 29.5,
+        "over_odds": -106,
+        "under_odds": -120,
+        "proj_mean": 29.5,
+        "proj_std": 5.31,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Hot Hand V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Matchup V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Pace V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Consensus": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Monte V1": {
+                "proj_mean": 29.26,
+                "proj_std": 4.52
+            },
+            "Dice V1": {
+                "proj_mean": 25.08,
+                "proj_std": 10.06
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Zion Williamson",
+        "market": "player_points_rebounds_assists",
+        "line": 28.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 28.5,
+        "proj_std": 5.13,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Hot Hand V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Matchup V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Pace V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Consensus": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Monte V1": {
+                "proj_mean": 28.62,
+                "proj_std": 4.4
+            },
+            "Dice V1": {
+                "proj_mean": 34.3,
+                "proj_std": 13.17
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Tobias Harris",
+        "market": "player_points_rebounds_assists",
+        "line": 23.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 23.5,
+        "proj_std": 4.23,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Hot Hand V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Matchup V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Pace V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Consensus": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Monte V1": {
+                "proj_mean": 23.49,
+                "proj_std": 3.7
+            },
+            "Dice V1": {
+                "proj_mean": 23.35,
+                "proj_std": 9.21
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Trey Murphy III",
+        "market": "player_points_rebounds_assists",
+        "line": 28.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 28.5,
+        "proj_std": 5.13,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Hot Hand V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Matchup V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Pace V1": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Consensus": {
+                "proj_mean": 28.5,
+                "proj_std": 5.13
+            },
+            "Monte V1": {
+                "proj_mean": 28.42,
+                "proj_std": 4.41
+            },
+            "Dice V1": {
+                "proj_mean": 28.19,
+                "proj_std": 11.05
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ausar Thompson",
+        "market": "player_points_rebounds_assists",
+        "line": 21.5,
+        "over_odds": -106,
+        "under_odds": -120,
+        "proj_mean": 21.5,
+        "proj_std": 3.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Matchup V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Pace V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Consensus": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Monte V1": {
+                "proj_mean": 21.66,
+                "proj_std": 3.32
+            },
+            "Dice V1": {
+                "proj_mean": 23.34,
+                "proj_std": 8.92
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Derik Queen",
+        "market": "player_points_rebounds_assists",
+        "line": 14.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 14.5,
+        "proj_std": 2.61,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 14.5,
+                "proj_std": 2.61
+            },
+            "Hot Hand V1": {
+                "proj_mean": 14.5,
+                "proj_std": 2.61
+            },
+            "Matchup V1": {
+                "proj_mean": 14.5,
+                "proj_std": 2.61
+            },
+            "Pace V1": {
+                "proj_mean": 14.5,
+                "proj_std": 2.61
+            },
+            "Consensus": {
+                "proj_mean": 14.5,
+                "proj_std": 2.61
+            },
+            "Monte V1": {
+                "proj_mean": 14.54,
+                "proj_std": 2.16
+            },
+            "Dice V1": {
+                "proj_mean": 8.65,
+                "proj_std": 3.51
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Duncan Robinson",
+        "market": "player_points_rebounds_assists",
+        "line": 17.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 17.5,
+        "proj_std": 3.15,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.15
+            },
+            "Hot Hand V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.15
+            },
+            "Matchup V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.15
+            },
+            "Pace V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.15
+            },
+            "Consensus": {
+                "proj_mean": 17.5,
+                "proj_std": 3.15
+            },
+            "Monte V1": {
+                "proj_mean": 17.4,
+                "proj_std": 2.8
+            },
+            "Dice V1": {
+                "proj_mean": 19.23,
+                "proj_std": 7.6
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Herb Jones",
+        "market": "player_points_rebounds_assists",
+        "line": 15.5,
+        "over_odds": 102,
+        "under_odds": -130,
+        "proj_mean": 15.5,
+        "proj_std": 2.79,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 15.5,
+                "proj_std": 2.79
+            },
+            "Hot Hand V1": {
+                "proj_mean": 15.5,
+                "proj_std": 2.79
+            },
+            "Matchup V1": {
+                "proj_mean": 15.5,
+                "proj_std": 2.79
+            },
+            "Pace V1": {
+                "proj_mean": 15.5,
+                "proj_std": 2.79
+            },
+            "Consensus": {
+                "proj_mean": 15.5,
+                "proj_std": 2.79
+            },
+            "Monte V1": {
+                "proj_mean": 15.57,
+                "proj_std": 2.41
+            },
+            "Dice V1": {
+                "proj_mean": 18.93,
+                "proj_std": 7.67
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ausar Thompson",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": -156,
+        "under_odds": 122,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.39,
+                "proj_std": 0.42
+            },
+            "Dice V1": {
+                "proj_mean": 4.93,
+                "proj_std": 1.95
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Kevin Huerter",
+        "market": "player_rebounds",
+        "line": 2.5,
+        "over_odds": -154,
+        "under_odds": 120,
+        "proj_mean": 2.5,
+        "proj_std": 0.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Monte V1": {
+                "proj_mean": 0.63,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.04,
+                "proj_std": 1.19
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Zion Williamson",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.4,
+                "proj_std": 0.41
+            },
+            "Dice V1": {
+                "proj_mean": 6.62,
+                "proj_std": 2.64
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Ron Holland",
+        "market": "player_rebounds",
+        "line": 3.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 3.5,
+        "proj_std": 1.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Monte V1": {
+                "proj_mean": 0.88,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 3.85,
+                "proj_std": 1.54
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Saddiq Bey",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": 106,
+        "under_odds": -136,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.36,
+                "proj_std": 0.41
+            },
+            "Dice V1": {
+                "proj_mean": 4.61,
+                "proj_std": 1.87
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Yves Missi",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": -136,
+        "under_odds": 106,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.37,
+                "proj_std": 0.4
+            },
+            "Dice V1": {
+                "proj_mean": 6.68,
+                "proj_std": 2.59
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Trey Murphy III",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -130,
+        "under_odds": 102,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.12,
+                "proj_std": 0.36
+            },
+            "Dice V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.8
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Duncan Robinson",
+        "market": "player_rebounds",
+        "line": 2.5,
+        "over_odds": -138,
+        "under_odds": 108,
+        "proj_mean": 2.5,
+        "proj_std": 0.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Monte V1": {
+                "proj_mean": 0.63,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 2.8,
+                "proj_std": 1.11
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Daniss Jenkins",
+        "market": "player_rebounds",
+        "line": 3.5,
+        "over_odds": -108,
+        "under_odds": -118,
+        "proj_mean": 3.5,
+        "proj_std": 1.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Monte V1": {
+                "proj_mean": 0.87,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.33,
+                "proj_std": 1.31
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Tobias Harris",
+        "market": "player_rebounds",
+        "line": 5.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 5.5,
+        "proj_std": 1.65,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.65
+            },
+            "Monte V1": {
+                "proj_mean": 1.36,
+                "proj_std": 0.43
+            },
+            "Dice V1": {
+                "proj_mean": 5.55,
+                "proj_std": 2.11
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Dejounte Murray",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -128,
+        "under_odds": 100,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.13,
+                "proj_std": 0.33
+            },
+            "Dice V1": {
+                "proj_mean": 5.35,
+                "proj_std": 2.18
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Herb Jones",
+        "market": "player_rebounds",
+        "line": 3.5,
+        "over_odds": 130,
+        "under_odds": -166,
+        "proj_mean": 3.5,
+        "proj_std": 1.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Monte V1": {
+                "proj_mean": 0.89,
+                "proj_std": 0.31
+            },
+            "Dice V1": {
+                "proj_mean": 3.52,
+                "proj_std": 1.37
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Derik Queen",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -108,
+        "under_odds": -118,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.11,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 4.51,
+                "proj_std": 1.79
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Jalen Duren",
+        "market": "player_rebounds",
+        "line": 11.5,
+        "over_odds": -128,
+        "under_odds": 100,
+        "proj_mean": 11.5,
+        "proj_std": 3.45,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 11.5,
+                "proj_std": 3.45
+            },
+            "Hot Hand V1": {
+                "proj_mean": 11.5,
+                "proj_std": 3.45
+            },
+            "Matchup V1": {
+                "proj_mean": 11.5,
+                "proj_std": 3.45
+            },
+            "Pace V1": {
+                "proj_mean": 11.5,
+                "proj_std": 3.45
+            },
+            "Consensus": {
+                "proj_mean": 11.5,
+                "proj_std": 3.45
+            },
+            "Monte V1": {
+                "proj_mean": 2.85,
+                "proj_std": 0.89
+            },
+            "Dice V1": {
+                "proj_mean": 10.32,
+                "proj_std": 4.09
+            }
+        },
+        "own_team": "Detroit Pistons",
+        "opp_team": "New Orleans Pelicans"
+    },
+    {
+        "player": "Desmond Bane",
+        "market": "player_assists",
+        "line": 4.5,
+        "over_odds": 114,
+        "under_odds": -146,
+        "proj_mean": 4.5,
+        "proj_std": 1.44,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Monte V1": {
+                "proj_mean": 0.9,
+                "proj_std": 0.31
+            },
+            "Dice V1": {
+                "proj_mean": 4.08,
+                "proj_std": 1.62
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "DeMar DeRozan",
+        "market": "player_assists",
+        "line": 4.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 4.5,
+        "proj_std": 1.44,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.44
+            },
+            "Monte V1": {
+                "proj_mean": 0.88,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 3.78,
+                "proj_std": 1.51
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Devin Carter",
+        "market": "player_assists",
+        "line": 3.5,
+        "over_odds": -132,
+        "under_odds": 104,
+        "proj_mean": 3.5,
+        "proj_std": 1.12,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.12
+            },
+            "Monte V1": {
+                "proj_mean": 0.71,
+                "proj_std": 0.3
+            },
+            "Dice V1": {
+                "proj_mean": 3.82,
+                "proj_std": 1.54
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Malik Monk",
+        "market": "player_assists",
+        "line": 5.5,
+        "over_odds": 126,
+        "under_odds": -162,
+        "proj_mean": 5.5,
+        "proj_std": 1.76,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Monte V1": {
+                "proj_mean": 1.1,
+                "proj_std": 0.37
+            },
+            "Dice V1": {
+                "proj_mean": 7.31,
+                "proj_std": 2.93
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Paolo Banchero",
+        "market": "player_assists",
+        "line": 5.5,
+        "over_odds": 102,
+        "under_odds": -130,
+        "proj_mean": 5.5,
+        "proj_std": 1.76,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Monte V1": {
+                "proj_mean": 1.11,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 4.71,
+                "proj_std": 1.83
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Jalen Suggs",
+        "market": "player_assists",
+        "line": 5.5,
+        "over_odds": -122,
+        "under_odds": -104,
+        "proj_mean": 5.5,
+        "proj_std": 1.76,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.76
+            },
+            "Monte V1": {
+                "proj_mean": 1.12,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 3.11,
+                "proj_std": 1.21
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "DeMar DeRozan",
+        "market": "player_points",
+        "line": 17.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 17.5,
+        "proj_std": 3.85,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Hot Hand V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Matchup V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Pace V1": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Consensus": {
+                "proj_mean": 17.5,
+                "proj_std": 3.85
+            },
+            "Monte V1": {
+                "proj_mean": 9.72,
+                "proj_std": 2.17
+            },
+            "Dice V1": {
+                "proj_mean": 20.81,
+                "proj_std": 8.6
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Jamal Cain",
+        "market": "player_points",
+        "line": 8.5,
+        "over_odds": -128,
+        "under_odds": 100,
+        "proj_mean": 8.5,
+        "proj_std": 1.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Matchup V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Pace V1": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Consensus": {
+                "proj_mean": 8.5,
+                "proj_std": 1.87
+            },
+            "Monte V1": {
+                "proj_mean": 4.67,
+                "proj_std": 1.03
+            },
+            "Dice V1": {
+                "proj_mean": 6.6,
+                "proj_std": 2.7
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Malik Monk",
+        "market": "player_points",
+        "line": 16.5,
+        "over_odds": 100,
+        "under_odds": -128,
+        "proj_mean": 16.5,
+        "proj_std": 3.63,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Hot Hand V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Matchup V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Pace V1": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Consensus": {
+                "proj_mean": 16.5,
+                "proj_std": 3.63
+            },
+            "Monte V1": {
+                "proj_mean": 9.11,
+                "proj_std": 2.02
+            },
+            "Dice V1": {
+                "proj_mean": 16.96,
+                "proj_std": 6.42
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Wendell Carter Jr",
+        "market": "player_points",
+        "line": 11.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 11.5,
+        "proj_std": 2.53,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Hot Hand V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Matchup V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Pace V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Consensus": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Monte V1": {
+                "proj_mean": 6.28,
+                "proj_std": 1.44
+            },
+            "Dice V1": {
+                "proj_mean": 11.8,
+                "proj_std": 4.61
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Maxime Raynaud",
+        "market": "player_points",
+        "line": 15.5,
+        "over_odds": -115,
+        "under_odds": -111,
+        "proj_mean": 15.5,
+        "proj_std": 3.41,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 15.5,
+                "proj_std": 3.41
+            },
+            "Hot Hand V1": {
+                "proj_mean": 15.5,
+                "proj_std": 3.41
+            },
+            "Matchup V1": {
+                "proj_mean": 15.5,
+                "proj_std": 3.41
+            },
+            "Pace V1": {
+                "proj_mean": 15.5,
+                "proj_std": 3.41
+            },
+            "Consensus": {
+                "proj_mean": 15.5,
+                "proj_std": 3.41
+            },
+            "Monte V1": {
+                "proj_mean": 8.6,
+                "proj_std": 1.84
+            },
+            "Dice V1": {
+                "proj_mean": 16.64,
+                "proj_std": 6.79
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Desmond Bane",
+        "market": "player_points",
+        "line": 20.5,
+        "over_odds": -128,
+        "under_odds": 100,
+        "proj_mean": 20.5,
+        "proj_std": 4.51,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Hot Hand V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Matchup V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Pace V1": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Consensus": {
+                "proj_mean": 20.5,
+                "proj_std": 4.51
+            },
+            "Monte V1": {
+                "proj_mean": 11.41,
+                "proj_std": 2.54
+            },
+            "Dice V1": {
+                "proj_mean": 12.85,
+                "proj_std": 5.19
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Tristan da Silva",
+        "market": "player_points",
+        "line": 11.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 11.5,
+        "proj_std": 2.53,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Hot Hand V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Matchup V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Pace V1": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Consensus": {
+                "proj_mean": 11.5,
+                "proj_std": 2.53
+            },
+            "Monte V1": {
+                "proj_mean": 6.3,
+                "proj_std": 1.39
+            },
+            "Dice V1": {
+                "proj_mean": 10.38,
+                "proj_std": 4.09
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Devin Carter",
+        "market": "player_points",
+        "line": 13.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 13.5,
+        "proj_std": 2.97,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Hot Hand V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Matchup V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Pace V1": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Consensus": {
+                "proj_mean": 13.5,
+                "proj_std": 2.97
+            },
+            "Monte V1": {
+                "proj_mean": 7.44,
+                "proj_std": 1.64
+            },
+            "Dice V1": {
+                "proj_mean": 9.01,
+                "proj_std": 3.7
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Dylan Cardwell",
+        "market": "player_points",
+        "line": 5.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 5.5,
+        "proj_std": 1.21,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Monte V1": {
+                "proj_mean": 3.02,
+                "proj_std": 0.64
+            },
+            "Dice V1": {
+                "proj_mean": 3.85,
+                "proj_std": 1.52
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Precious Achiuwa",
+        "market": "player_points",
+        "line": 12.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 12.5,
+        "proj_std": 2.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Matchup V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Pace V1": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Consensus": {
+                "proj_mean": 12.5,
+                "proj_std": 2.75
+            },
+            "Monte V1": {
+                "proj_mean": 6.89,
+                "proj_std": 1.5
+            },
+            "Dice V1": {
+                "proj_mean": 13.8,
+                "proj_std": 5.55
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Jalen Suggs",
+        "market": "player_points",
+        "line": 14.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 14.5,
+        "proj_std": 3.19,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Hot Hand V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Matchup V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Pace V1": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Consensus": {
+                "proj_mean": 14.5,
+                "proj_std": 3.19
+            },
+            "Monte V1": {
+                "proj_mean": 7.95,
+                "proj_std": 1.79
+            },
+            "Dice V1": {
+                "proj_mean": 15.89,
+                "proj_std": 6.31
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Goga Bitadze",
+        "market": "player_points",
+        "line": 5.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 5.5,
+        "proj_std": 1.21,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Hot Hand V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Matchup V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Pace V1": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Consensus": {
+                "proj_mean": 5.5,
+                "proj_std": 1.21
+            },
+            "Monte V1": {
+                "proj_mean": 3.01,
+                "proj_std": 0.69
+            },
+            "Dice V1": {
+                "proj_mean": 3.81,
+                "proj_std": 1.62
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Paolo Banchero",
+        "market": "player_points",
+        "line": 24.5,
+        "over_odds": -130,
+        "under_odds": 102,
+        "proj_mean": 24.5,
+        "proj_std": 5.39,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 24.5,
+                "proj_std": 5.39
+            },
+            "Hot Hand V1": {
+                "proj_mean": 24.5,
+                "proj_std": 5.39
+            },
+            "Matchup V1": {
+                "proj_mean": 24.5,
+                "proj_std": 5.39
+            },
+            "Pace V1": {
+                "proj_mean": 24.5,
+                "proj_std": 5.39
+            },
+            "Consensus": {
+                "proj_mean": 24.5,
+                "proj_std": 5.39
+            },
+            "Monte V1": {
+                "proj_mean": 13.4,
+                "proj_std": 2.88
+            },
+            "Dice V1": {
+                "proj_mean": 24.19,
+                "proj_std": 9.83
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Malik Monk",
+        "market": "player_points_rebounds_assists",
+        "line": 23.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 23.5,
+        "proj_std": 4.23,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Hot Hand V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Matchup V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Pace V1": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Consensus": {
+                "proj_mean": 23.5,
+                "proj_std": 4.23
+            },
+            "Monte V1": {
+                "proj_mean": 23.67,
+                "proj_std": 3.62
+            },
+            "Dice V1": {
+                "proj_mean": 21.75,
+                "proj_std": 8.6
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Tristan da Silva",
+        "market": "player_points_rebounds_assists",
+        "line": 18.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 18.5,
+        "proj_std": 3.33,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 18.5,
+                "proj_std": 3.33
+            },
+            "Hot Hand V1": {
+                "proj_mean": 18.5,
+                "proj_std": 3.33
+            },
+            "Matchup V1": {
+                "proj_mean": 18.5,
+                "proj_std": 3.33
+            },
+            "Pace V1": {
+                "proj_mean": 18.5,
+                "proj_std": 3.33
+            },
+            "Consensus": {
+                "proj_mean": 18.5,
+                "proj_std": 3.33
+            },
+            "Monte V1": {
+                "proj_mean": 18.39,
+                "proj_std": 2.82
+            },
+            "Dice V1": {
+                "proj_mean": 12.99,
+                "proj_std": 5.01
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Desmond Bane",
+        "market": "player_points_rebounds_assists",
+        "line": 29.5,
+        "over_odds": -118,
+        "under_odds": -108,
+        "proj_mean": 29.5,
+        "proj_std": 5.31,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Hot Hand V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Matchup V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Pace V1": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Consensus": {
+                "proj_mean": 29.5,
+                "proj_std": 5.31
+            },
+            "Monte V1": {
+                "proj_mean": 29.42,
+                "proj_std": 4.79
+            },
+            "Dice V1": {
+                "proj_mean": 27.81,
+                "proj_std": 10.81
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Paolo Banchero",
+        "market": "player_points_rebounds_assists",
+        "line": 39.5,
+        "over_odds": -104,
+        "under_odds": -122,
+        "proj_mean": 39.5,
+        "proj_std": 7.11,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 39.5,
+                "proj_std": 7.11
+            },
+            "Hot Hand V1": {
+                "proj_mean": 39.5,
+                "proj_std": 7.11
+            },
+            "Matchup V1": {
+                "proj_mean": 39.5,
+                "proj_std": 7.11
+            },
+            "Pace V1": {
+                "proj_mean": 39.5,
+                "proj_std": 7.11
+            },
+            "Consensus": {
+                "proj_mean": 39.5,
+                "proj_std": 7.11
+            },
+            "Monte V1": {
+                "proj_mean": 39.62,
+                "proj_std": 6.02
+            },
+            "Dice V1": {
+                "proj_mean": 39.54,
+                "proj_std": 15.36
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Wendell Carter Jr",
+        "market": "player_points_rebounds_assists",
+        "line": 21.5,
+        "over_odds": -111,
+        "under_odds": -115,
+        "proj_mean": 21.5,
+        "proj_std": 3.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Matchup V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Pace V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Consensus": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Monte V1": {
+                "proj_mean": 21.48,
+                "proj_std": 3.39
+            },
+            "Dice V1": {
+                "proj_mean": 23.7,
+                "proj_std": 9.23
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Devin Carter",
+        "market": "player_points_rebounds_assists",
+        "line": 21.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 21.5,
+        "proj_std": 3.87,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Hot Hand V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Matchup V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Pace V1": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Consensus": {
+                "proj_mean": 21.5,
+                "proj_std": 3.87
+            },
+            "Monte V1": {
+                "proj_mean": 21.42,
+                "proj_std": 3.3
+            },
+            "Dice V1": {
+                "proj_mean": 16.37,
+                "proj_std": 6.49
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Jalen Suggs",
+        "market": "player_points_rebounds_assists",
+        "line": 24.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 24.5,
+        "proj_std": 4.41,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Hot Hand V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Matchup V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Pace V1": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Consensus": {
+                "proj_mean": 24.5,
+                "proj_std": 4.41
+            },
+            "Monte V1": {
+                "proj_mean": 24.39,
+                "proj_std": 3.78
+            },
+            "Dice V1": {
+                "proj_mean": 21.23,
+                "proj_std": 8.0
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "DeMar DeRozan",
+        "market": "player_points_rebounds_assists",
+        "line": 25.5,
+        "over_odds": -106,
+        "under_odds": -120,
+        "proj_mean": 25.5,
+        "proj_std": 4.59,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Hot Hand V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Matchup V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Pace V1": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Consensus": {
+                "proj_mean": 25.5,
+                "proj_std": 4.59
+            },
+            "Monte V1": {
+                "proj_mean": 25.44,
+                "proj_std": 4.05
+            },
+            "Dice V1": {
+                "proj_mean": 25.5,
+                "proj_std": 9.91
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Goga Bitadze",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": -128,
+        "under_odds": 100,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.1,
+                "proj_std": 0.35
+            },
+            "Dice V1": {
+                "proj_mean": 5.36,
+                "proj_std": 2.06
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Devin Carter",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": 124,
+        "under_odds": -160,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.14,
+                "proj_std": 0.34
+            },
+            "Dice V1": {
+                "proj_mean": 5.05,
+                "proj_std": 1.99
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "DeMar DeRozan",
+        "market": "player_rebounds",
+        "line": 2.5,
+        "over_odds": -113,
+        "under_odds": -113,
+        "proj_mean": 2.5,
+        "proj_std": 0.75,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Hot Hand V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Matchup V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Pace V1": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Consensus": {
+                "proj_mean": 2.5,
+                "proj_std": 0.75
+            },
+            "Monte V1": {
+                "proj_mean": 0.63,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 2.48,
+                "proj_std": 0.97
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Desmond Bane",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": 130,
+        "under_odds": -166,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.14,
+                "proj_std": 0.33
+            },
+            "Dice V1": {
+                "proj_mean": 3.12,
+                "proj_std": 1.24
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Tristan da Silva",
+        "market": "player_rebounds",
+        "line": 4.5,
+        "over_odds": 134,
+        "under_odds": -172,
+        "proj_mean": 4.5,
+        "proj_std": 1.35,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Hot Hand V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Matchup V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Pace V1": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Consensus": {
+                "proj_mean": 4.5,
+                "proj_std": 1.35
+            },
+            "Monte V1": {
+                "proj_mean": 1.14,
+                "proj_std": 0.33
+            },
+            "Dice V1": {
+                "proj_mean": 4.94,
+                "proj_std": 1.96
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Maxime Raynaud",
+        "market": "player_rebounds",
+        "line": 9.5,
+        "over_odds": 104,
+        "under_odds": -132,
+        "proj_mean": 9.5,
+        "proj_std": 2.85,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Hot Hand V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Matchup V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Pace V1": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Consensus": {
+                "proj_mean": 9.5,
+                "proj_std": 2.85
+            },
+            "Monte V1": {
+                "proj_mean": 2.34,
+                "proj_std": 0.69
+            },
+            "Dice V1": {
+                "proj_mean": 10.42,
+                "proj_std": 4.05
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Wendell Carter Jr",
+        "market": "player_rebounds",
+        "line": 7.5,
+        "over_odds": -102,
+        "under_odds": -125,
+        "proj_mean": 7.5,
+        "proj_std": 2.25,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Monte V1": {
+                "proj_mean": 1.87,
+                "proj_std": 0.56
+            },
+            "Dice V1": {
+                "proj_mean": 6.03,
+                "proj_std": 2.31
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Dylan Cardwell",
+        "market": "player_rebounds",
+        "line": 7.5,
+        "over_odds": 108,
+        "under_odds": -138,
+        "proj_mean": 7.5,
+        "proj_std": 2.25,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Monte V1": {
+                "proj_mean": 1.9,
+                "proj_std": 0.55
+            },
+            "Dice V1": {
+                "proj_mean": 4.49,
+                "proj_std": 1.79
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Precious Achiuwa",
+        "market": "player_rebounds",
+        "line": 7.5,
+        "over_odds": -125,
+        "under_odds": -102,
+        "proj_mean": 7.5,
+        "proj_std": 2.25,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Hot Hand V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Matchup V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Pace V1": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Consensus": {
+                "proj_mean": 7.5,
+                "proj_std": 2.25
+            },
+            "Monte V1": {
+                "proj_mean": 1.88,
+                "proj_std": 0.56
+            },
+            "Dice V1": {
+                "proj_mean": 7.6,
+                "proj_std": 2.95
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Paolo Banchero",
+        "market": "player_rebounds",
+        "line": 8.5,
+        "over_odds": 110,
+        "under_odds": -140,
+        "proj_mean": 8.5,
+        "proj_std": 2.55,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 8.5,
+                "proj_std": 2.55
+            },
+            "Hot Hand V1": {
+                "proj_mean": 8.5,
+                "proj_std": 2.55
+            },
+            "Matchup V1": {
+                "proj_mean": 8.5,
+                "proj_std": 2.55
+            },
+            "Pace V1": {
+                "proj_mean": 8.5,
+                "proj_std": 2.55
+            },
+            "Consensus": {
+                "proj_mean": 8.5,
+                "proj_std": 2.55
+            },
+            "Monte V1": {
+                "proj_mean": 2.11,
+                "proj_std": 0.61
+            },
+            "Dice V1": {
+                "proj_mean": 5.94,
+                "proj_std": 2.35
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    },
+    {
+        "player": "Jalen Suggs",
+        "market": "player_rebounds",
+        "line": 3.5,
+        "over_odds": -146,
+        "under_odds": 114,
+        "proj_mean": 3.5,
+        "proj_std": 1.05,
+        "model_breakdown": {
+            "Season V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Hot Hand V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Matchup V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Pace V1": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Consensus": {
+                "proj_mean": 3.5,
+                "proj_std": 1.05
+            },
+            "Monte V1": {
+                "proj_mean": 0.87,
+                "proj_std": 0.29
+            },
+            "Dice V1": {
+                "proj_mean": 4.19,
+                "proj_std": 1.66
+            }
+        },
+        "own_team": "Orlando Magic",
+        "opp_team": "Sacramento Kings"
+    }
+]

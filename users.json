@@ -1,0 +1,16 @@
+{
+  "logan": {
+    "password_hash": "5ba4c5ad7f67ea1a40f3108d9af56d063ec36d3400d810573769eb5c07809af8",
+    "role": "dfs",
+    "email": "loganhayes76@gmail.com",
+    "tags": [],
+    "email_updates": true
+  },
+  "kate": {
+    "password_hash": "2c249473aa501c43f154cc5bd2332c4c5ab5281cdc7c22ba049724882eda25f7",
+    "role": "member",
+    "email": "",
+    "tags": [],
+    "email_updates": false
+  }
+}

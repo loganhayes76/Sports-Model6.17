@@ -1,0 +1,317 @@
+[
+  {
+    "timestamp": "2026-04-30T18:00:04.987800",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.5,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.971266",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.8,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.950737",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.6,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.945487",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.6,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.525381",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 2.8,
+    "output_tail": " \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 0 props written (0 pitcher K, 0 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.334313",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 2.6,
+    "output_tail": " \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 0 props written (0 pitcher K, 0 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:04.213269",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 2.5,
+    "output_tail": " \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 0 props written (0 pitcher K, 0 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:01.735435",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "e pitchers:\n    Shohei Ohtani              GS=  5  SO= 34  ERA=0.60\n    Jos\u00e9 Soriano               GS=  7  SO= 49  ERA=0.84\n    Cam Schlittler             GS=  7  SO= 49  ERA=1.51\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:01.716734",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "e pitchers:\n    Shohei Ohtani              GS=  5  SO= 34  ERA=0.60\n    Jos\u00e9 Soriano               GS=  7  SO= 49  ERA=0.84\n    Cam Schlittler             GS=  7  SO= 49  ERA=1.51\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:01.706391",
+    "job": "MLB Prop DB Refresh",
+    "success": false,
+    "duration_s": 1.0,
+    "output_tail": "_float, parse_int=parse_int,\n        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/__init__.py\", line 346, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/decoder.py\", line 363, in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:01.703417",
+    "job": "MLB Prop DB Refresh",
+    "success": false,
+    "duration_s": 1.2,
+    "output_tail": "ant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/__init__.py\", line 346, in loads\n    return _default_decoder.decode(s)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/decoder.py\", line 345, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/nix/store/zkaa2crvddx4cvbclym818arv5rgk4my-python3-3.13.4/lib/python3.13/json/decoder.py\", line 361, in raw_decode\n    obj, end = self.scan_once(s, idx)\n               ~~~~~~~~~~~~~~^^^^^^^^\njson.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2587 column 5 (char 40971)\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:00.711595",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.7,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:00.703830",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.7,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:00.695034",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.7,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T18:00:00.536437",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.5,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:45:00.572837",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.6,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:45:00.560561",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.6,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:45:00.529503",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 0.5,
+    "output_tail": "G=0.625  HR/G=0.250  RBI/G=0.875\n  Shohei Ohtani              G= 31  H/G=0.968  HR/G=0.194  RBI/G=0.419\n  Freddie Freeman            G= 29  H/G=1.034  HR/G=0.103  RBI/G=0.517\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:30:02.311048",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 2.3,
+    "output_tail": "e pitchers:\n    Shohei Ohtani              GS=  5  SO= 34  ERA=0.60\n    Jos\u00e9 Soriano               GS=  7  SO= 49  ERA=0.84\n    Cam Schlittler             GS=  7  SO= 49  ERA=1.51\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:30:02.286712",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 2.3,
+    "output_tail": "e pitchers:\n    Shohei Ohtani              GS=  5  SO= 34  ERA=0.60\n    Jos\u00e9 Soriano               GS=  7  SO= 49  ERA=0.84\n    Cam Schlittler             GS=  7  SO= 49  ERA=1.51\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-30T17:30:02.281902",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 2.3,
+    "output_tail": "e pitchers:\n    Shohei Ohtani              GS=  5  SO= 34  ERA=0.60\n    Jos\u00e9 Soriano               GS=  7  SO= 49  ERA=0.84\n    Cam Schlittler             GS=  7  SO= 49  ERA=1.51\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-30T13:00:00.124258",
+    "job": "Auto-Grader (9AM)",
+    "success": false,
+    "duration_s": 0,
+    "output_tail": "Unable to import required dependency numpy. Please see the traceback for details."
+  },
+  {
+    "timestamp": "2026-04-04T18:00:08.864829",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.3,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:08.531082",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 5.9,
+    "output_tail": "oth keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n\u26a0\ufe0f  Odds API [backup key] HTTP 401 \u2014 both keys exhausted.\n\ud83d\udd34 Both Odds API keys exhausted or failed \u2014 skipping this request.\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 729 props written (0 pitcher K, 729 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:03.560847",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.3,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:03.222831",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 0.6,
+    "output_tail": "\u26be [THE CLEANUP CREW] Pinging The Odds API for today's MLB slate...\n   \ud83d\udcca Batter stats cache: 764 players loaded\n\u274c Unexpected events response: {'message': 'Service Unavailable'}\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:02.668449",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.7,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:02.656496",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.6,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:01.006557",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "G=1.013  HR/G=0.133  RBI/G=0.547\n  Shohei Ohtani              G=158  H/G=1.089  HR/G=0.348  RBI/G=0.646\n  Freddie Freeman            G=147  H/G=1.116  HR/G=0.163  RBI/G=0.612\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-04T18:00:00.990177",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "G=1.013  HR/G=0.133  RBI/G=0.547\n  Shohei Ohtani              G=158  H/G=1.089  HR/G=0.348  RBI/G=0.646\n  Freddie Freeman            G=147  H/G=1.116  HR/G=0.163  RBI/G=0.612\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-04T17:45:01.026978",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "G=1.013  HR/G=0.133  RBI/G=0.547\n  Shohei Ohtani              G=158  H/G=1.089  HR/G=0.348  RBI/G=0.646\n  Freddie Freeman            G=147  H/G=1.116  HR/G=0.163  RBI/G=0.612\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-04T17:45:01.005238",
+    "job": "MLB Batter Stats Refresh",
+    "success": true,
+    "duration_s": 1.0,
+    "output_tail": "G=1.013  HR/G=0.133  RBI/G=0.547\n  Shohei Ohtani              G=158  H/G=1.089  HR/G=0.348  RBI/G=0.646\n  Freddie Freeman            G=147  H/G=1.116  HR/G=0.163  RBI/G=0.612\n/home/runner/workspace/mlb_batter_stats.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/mlb_batter_stats.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"updated_at\": datetime.datetime.utcnow().strftime(\"%Y-%m-%dT%H:%M:%S\"),\n"
+  },
+  {
+    "timestamp": "2026-04-04T17:30:02.085839",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 2.1,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-04T17:30:02.064174",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 2.1,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-01T20:00:10.800805",
+    "job": "NBA Props Update (4PM)",
+    "success": false,
+    "duration_s": 10.8,
+    "output_tail": "\ud83d\udce1 Pinging The Odds API for tonight's NBA slate...\nTraceback (most recent call last):\n  File \"/home/runner/workspace/update_nba_props.py\", line 163, in <module>\n    get_nba_props()\n    ~~~~~~~~~~~~~^^\n  File \"/home/runner/workspace/update_nba_props.py\", line 25, in get_nba_props\n    event_ids = [(e['id'], e.get('home_team', ''), e.get('away_team', '')) for e in events[:12]]\n                                                                                    ~~~~~~^^^^^\nKeyError: slice(None, 12, None)\n"
+  },
+  {
+    "timestamp": "2026-04-01T20:00:10.799774",
+    "job": "NBA Props Update (4PM)",
+    "success": false,
+    "duration_s": 10.8,
+    "output_tail": "\ud83d\udce1 Pinging The Odds API for tonight's NBA slate...\nTraceback (most recent call last):\n  File \"/home/runner/workspace/update_nba_props.py\", line 163, in <module>\n    get_nba_props()\n    ~~~~~~~~~~~~~^^\n  File \"/home/runner/workspace/update_nba_props.py\", line 25, in get_nba_props\n    event_ids = [(e['id'], e.get('home_team', ''), e.get('away_team', '')) for e in events[:12]]\n                                                                                    ~~~~~~^^^^^\nKeyError: slice(None, 12, None)\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:23.620606",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.3,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:23.293820",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 20.8,
+    "output_tail": "\u26be [THE CLEANUP CREW] Pinging The Odds API for today's MLB slate...\n   \ud83d\udcca Batter stats cache: 764 players loaded\n\u26a0\ufe0f  Primary Odds API key has only -5 requests remaining \u2014 switching to backup for this run.\n\ud83e\uddf9 Found 15 games. Fetching pitcher K props + generating synthetic batter props...\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 745 props written (16 pitcher K, 729 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:22.808592",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.4,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:22.443096",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 19.9,
+    "output_tail": "\u26be [THE CLEANUP CREW] Pinging The Odds API for today's MLB slate...\n   \ud83d\udcca Batter stats cache: 764 players loaded\n\u26a0\ufe0f  Primary Odds API key has only -5 requests remaining \u2014 switching to backup for this run.\n\ud83e\uddf9 Found 15 games. Fetching pitcher K props + generating synthetic batter props...\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 744 props written (15 pitcher K, 729 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:17.625429",
+    "job": "MLB Prop Slayer (2PM)",
+    "success": false,
+    "duration_s": 0.4,
+    "output_tail": "Traceback (most recent call last):\n  File \"/home/runner/workspace/analyze_props.py\", line 4, in <module>\n    from fetch_odds import get_player_props\nImportError: cannot import name 'get_player_props' from 'fetch_odds' (/home/runner/workspace/fetch_odds.py)\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:17.211267",
+    "job": "MLB Props Update (2PM)",
+    "success": true,
+    "duration_s": 14.7,
+    "output_tail": "\u26be [THE CLEANUP CREW] Pinging The Odds API for today's MLB slate...\n   \ud83d\udcca Batter stats cache: 764 players loaded\n\u26a0\ufe0f  Primary Odds API key has only -5 requests remaining \u2014 switching to backup for this run.\n\ud83e\uddf9 Found 15 games. Fetching pitcher K props + generating synthetic batter props...\n   \ud83d\udccb Lineup check: no lineup data \u2014 using all cache players with 50+ games (0 players)\n\u2705 SUCCESS: 749 props written (20 pitcher K, 729 synthetic batter hits/TB/HRR)\n/home/runner/workspace/update_mlb_props.py:231: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  today_utc    = datetime.datetime.utcnow().date()\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:02.544426",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.5,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:02.539298",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.6,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  },
+  {
+    "timestamp": "2026-04-01T18:00:02.528685",
+    "job": "MLB Prop DB Refresh",
+    "success": true,
+    "duration_s": 1.5,
+    "output_tail": "e pitchers:\n    Nathan Eovaldi             GS= 22  SO=129  ERA=1.73\n    Logan Henderson            GS=  5  SO= 33  ERA=1.78\n    Trevor Rogers              GS= 18  SO=103  ERA=1.81\n/home/runner/workspace/generate_mlb_prop_database.py:242: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n/home/runner/workspace/generate_mlb_prop_database.py:207: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  current_year = datetime.datetime.utcnow().year\n"
+  }
+]

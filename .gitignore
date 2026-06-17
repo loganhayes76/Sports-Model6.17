@@ -1,0 +1,14 @@
+node_modules/
+.env
+users.json
+passkeys.json
+session_tokens.json
+user_trackers/
+odds_cache_*.json
+odds_cache_meta.json
+odds_key_status.json
+espn_ncaa_baseball_cache.json
+mlb_batter_stats_cache.json
+nba_stats_cache.json
+scheduler_log.json
+auto_logger_log.json
